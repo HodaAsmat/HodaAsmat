@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Huda 👋
 
-<!--
-**hudamk96/hudamk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student
 
-Here are some ideas to get you started:
+I’m passionate about Data Science and continuously developing my technical and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring Python, SQL, Data Analytics, Machine Learning, and AI.
+
+💡 I enjoy learning new technologies, working on practical projects, and turning data into meaningful insights.
+
+🚀 My goal is to keep learning, gain practical experience, and grow as a professional in the field of Data Science.
+
+📫 How to reach me 
+Email: hudamk92@gmail.com
+LinkedIn: Hoda (https://www.linkedin.com/in/hoda-asmatullah-496a4838a)
