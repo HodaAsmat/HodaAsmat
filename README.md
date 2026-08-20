@@ -1,4 +1,4 @@
-Hi, I’m Huda 👋
+Hi, I’m Hoda 👋
 
 🎓 Data Science Student
 
